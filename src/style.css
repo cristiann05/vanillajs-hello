@@ -1,1 +1,10 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+#tituloexcusa {
+    text-align: center;
+    margin-top: 400px;
+}
+
+#excusa {
+text-align: center;
+}
